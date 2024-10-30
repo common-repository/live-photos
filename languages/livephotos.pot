@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2017-03-04 12:37+0100\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: core/class-livephotos-grouped-admin.php:67
+#, php-format
+msgctxt "Price range: from-to"
+msgid   "%1$s&ndash;%2$s"
+msgstr  ""
+
+#: core/class-livephotos.php:300
+#, php-format
+msgctxt "Price range: from-to"
+msgid   "%1$s–%2$s"
+msgstr  ""
+
+#: livephotos.php:154
+msgid   "Advanced"
+msgstr  ""
+
+#: livephotos.php:266 livephotos.php:271
+msgid   "Amount"
+msgstr  ""
+
+#: livephotos.php:307 livephotos.php:314
+msgid   "Amounts"
+msgstr  ""
+
+#: livephotos.php:279
+msgid   "Apply to:"
+msgstr  ""
+
+#: livephotos.php:368
+msgid   "Both prices text:"
+msgstr  ""
+
+#: livephotos.php:306 livephotos.php:313
+msgid   "Discounts"
+msgstr  ""
+
+#: livephotos.php:355
+msgid   "Display original prices:"
+msgstr  ""
+
+#: livephotos.php:323
+msgid   "If in several roles:"
+msgstr  ""
+
+#: core/class-livephotos-categories-admin.php:98
+msgid   "Leave empty if no custom role discount should be applied to this "
+        "category."
+msgstr  ""
+
+#: core/class-livephotos.php:141
+msgid   "Leave empty if no custom role discount should be applied to this "
+        "product (default setting)."
+msgstr  ""
+
+#: livephotos.php:152
+msgid   "Method"
+msgstr  ""
+
+#: livephotos.php:441
+msgid   "Num. decimals:"
+msgstr  ""
+
+#: livephotos.php:259
+msgid   "Products discount method:"
+msgstr  ""
+
+#: livephotos.php:265 livephotos.php:270
+msgid   "Rate"
+msgstr  ""
+
+#: livephotos.php:285 livephotos.php:290
+msgid   "Regular price"
+msgstr  ""
+
+#: core/class-livephotos.php:108 livephotos.php:137
+#: livephotos.php:138
+msgid   "Role Pricing"
+msgstr  ""
+
+#: livephotos.php:153
+msgid   "Roles"
+msgstr  ""
+
+#: livephotos.php:404
+msgid   "Roles:"
+msgstr  ""
+
+#: livephotos.php:286 livephotos.php:291
+msgid   "Sale price"
+msgstr  ""
+
+#: livephotos.php:381 livephotos.php:424 livephotos.php:447
+msgid   "Save"
+msgstr  ""
+
+#: livephotos.php:182
+msgid   "Saved Advanced subsection"
+msgstr  ""
+
+#: livephotos.php:206
+msgid   "Saved Method subsection"
+msgstr  ""
+
+#: livephotos.php:176
+msgid   "Saved Roles subsection"
+msgstr  ""
+
+#: livephotos.php:73
+msgid   "The <strong>Woocommerce Role Pricing</strong> plugin requires the <a "
+        "href=\"http://wordpress.org/extend/plugins/woocommerce\" target="
+        "\"_blank\">Woocommerce</a> plugin to be activated."
+msgstr  ""
+
+#: core/class-livephotos-categories-admin.php:96
+msgid   "Woocommerce Role Pricing"
+msgstr  ""
+
+#: livephotos.php:220
+msgid   "Woocommerce Role Pricing PRO"
+msgstr  ""
+
+#: livephotos.php:377
+msgid   "You can use the tokens: [original_price], [discounted_price]."
+msgstr  ""
+
+#: livephotos.php:299
+msgid   "You have set:"
+msgstr  ""
